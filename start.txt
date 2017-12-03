@@ -1,0 +1,5 @@
+====== Wiki do Ramalho ======
+
+Este é o wiki do [[Luciano Ramalho]], programador, professor, consultor e contador de estórias.
+
+Fiquei fascinado desde que eu ouvi falar de [[hipertexto|hipertextos]], e o [[wiki|wiki]] é um aprimoramento importante da ideia original. Este aqui é um [[https://www.dokuwiki.org/|dokuwiki]], o modelo de wiki que melhor se adapta às [[Porquê escolhi o dokuwiki|minhas necessidades]].

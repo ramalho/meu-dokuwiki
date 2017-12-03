@@ -1,0 +1,5 @@
+====== Luciano Ramalho ======
+
+Nasci em 1963 -- então em 2017 eu completo 0x36 anos. Em 1978 aprendi a programar lendo o manual de uma calculadora [[TI-58/59|Texas TI-58]] que emprestei do meu pai e nunca devolvi. Passei o ano de 1981 nos EUA como estudante de intercâmbio no ensino médio, e [[https://en.wikipedia.org/wiki/Harrisburg,_Illinois|lá]] aprendi a linguagem BASIC brincando com um [[Apple ][]] na biblioteca da escola pública onde eu estudava.
+
+Voltei para o Brasil com meu 1º computador na mala: um [[TRS-80 Color Computer]] (eu queria um Apple ][, mas era caro demais para mim). O Color Computer me permitiu continuar praticando programação, até que em 1984 eu consegui meu primeiro emprego em uma loja que vendia clones de Apple ][ no Brasil, e com a ajuda do meu pai comprei finalmente um [[Apple ][ Senior]] -- que apesar do nome era novo ;-).
