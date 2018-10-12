@@ -1,5 +1,16 @@
 ====== Wiki do Ramalho ======
 
-Este é o wiki do [[Luciano Ramalho]], programador, professor, consultor e contador de estórias.
+Este é o wiki do [[Luciano Ramalho]], programador-repentista.
 
-Fiquei fascinado desde que eu ouvi falar de [[hipertexto|hipertextos]], e o [[wiki|wiki]] é um aprimoramento importante da ideia original. Este aqui é um [[https://www.dokuwiki.org/|dokuwiki]], o modelo de wiki que melhor se adapta às [[Porquê escolhi o dokuwiki|minhas necessidades]].
+Em vez de blog, coloquei no ar este wiki, construído com [[https://www.dokuwiki.org/|docuwiki]]. Veja [[porquê escolhi o dokuwiki]].
+
+
+===== Páginas em destaque =====
+
+  * [[Oficina de TDD em Go]]
+  * [[Porque cada pessoa deve ter seu site na Web]]
+  * [[dadoware:Dadoware]]: instruções para gerar senhas fortes.
+  * [[passdrill]]: utilitário para praticar senhas fortes.
+  * [[Gerenciador de senhas]]: adote um em 2018.
+  * [[Roy vende a ThoughtWorks]]
+
