@@ -14,5 +14,5 @@ Em vez de blog, coloquei no ar este wiki, construído com [[https://www.dokuwiki
   * [[Gerenciador de senhas]]: adote um em 2018.
   * [[Roy vende a ThoughtWorks]]
   * [[Flagship]]
-  * [[Elêusis]]
+  * [[Eleusis]]
 
