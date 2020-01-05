@@ -39,7 +39,9 @@ Se não fosse essa caracteristica do jogo, o carteador (Deus) poderia torna-lo m
 
 Uma vez redigida a regra secreta, o carteador (Deus) embaralha as cartas e da 14 para cada jogador, não recebendo ele próprio nenhuma carta. Depois, com o resto do baralho na mão, coloca uma carta—a carta inicial—em uma extremidade da mesa.
 
-Ao consultar o diagrama que damos como exemplo, é fácil perceber que há uma fileira horizontal acima e algumas verticais, abaixo dela. A fileira horizontal, chamada de fileira principal, é formada pelas cartas certas, e as fileiras secundarias, chamadas de colunas dos erros, são formadas pelas cartas erradas.
+{{ :eleusis-exemplo.png?direct&1000 |}}
+
+No diagrama que damos como exemplo, é fácil perceber que há uma fileira horizontal acima e algumas verticais, abaixo dela. A fileira horizontal, chamada de fileira principal, é formada pelas cartas certas, e as fileiras secundarias, chamadas de colunas dos erros, são formadas pelas cartas erradas.
 
 Cabe ao carteador (Deus) inaugurar a fileira principal com a carta inicial. Se, ao tirar uma carta do baralho, o Deus verificar que ela não é adequada à regra que ele concebeu (não servindo, portanto, como carta inicial), deve coloca-la novamente no baralho, embaralhar e retirar outra carta, até encontrar uma carta adequada a regra. Essa é a unica vez, durante o jogo, que o Deus coloca alguma carta sobre a mesa. A partir de entao, ele se limitara a apontar os erros, aprovar os acertos e distribuir penalidades.
 
@@ -68,13 +70,13 @@ A sequência incorreta deve ser colocada na coluna de erros com as cartas ligeir
 
 {{ :eleusis-exemplo.png?direct&1000 |}}
 
-Para facilitar a compreensão deste jogo, acompanhe a sequência de jogadas pelo diagrama dado como exemplo.
+Para facilitar a compreensão deste jogo, acompanhe a sequência de jogadas pelo diagrama dado como exemplo (clique na figura para ampliá-la).
 
 A regra desse diagrama, como já vimos, é a seguinte:
 
 <WRAP center round box 60%>Se a última carta for preta, jogue um 7 ou uma carta superior; se for vermelha, jogue um 6 ou uma carta inferior.</WRAP>
 
-Nesse exemplo, a carta inicial é 3 de Copas. O primeiro jogador tentou jogar um 8 de Copas, e errou. Por isso, a sua carta foi para baixo da carta inicial, inaugurando a primeira coluna de erros. O segundo jogador tentou o 5 de Espadas, e acertou. O 9 de Ouros apresentado pelo jogador seguinte também esta correto, mas o Valete de Copas, jogado a seguir, esta errado e, por isso, foi colocado embaixo do 9 de Ouros, inaugurando a segunda coluna de erros. A carta seguinte, o 7 de Ouros, também errada, foi colocada na coluna de erros, em 52 seguida ao Valete de Copas. O mesmo aconteceu com a carta seguinte, um 8 de Espadas.
+Nesse exemplo, a carta inicial é 3 de Copas. O primeiro jogador tentou jogar um 8 de Copas, e errou. Por isso, a sua carta foi para baixo da carta inicial, inaugurando a primeira coluna de erros. O segundo jogador tentou o 5 de Espadas, e acertou. O 9 de Ouros apresentado pelo jogador seguinte também esta correto, mas o Valete de Copas, jogado a seguir, esta errado e, por isso, foi colocado embaixo do 9 de Ouros, inaugurando a segunda coluna de erros. A carta seguinte, o 7 de Ouros, também errada, foi colocada na coluna de erros, em seguida ao Valete de Copas. O mesmo aconteceu com próxima carta, um 8 de Espadas.
 
 Os jogadores que erraram receberam o dobro das cartas que tentaram descartar.
 
